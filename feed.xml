@@ -9,7 +9,7 @@
     <language>nl-BE</language>
     <description>Een Vlaamse podcastreeks die je voorbereidt op het theorie-examen van het Belgische beperkt stuurbrevet. Staf, gepensioneerd binnenvaartschipper, en Lien, die zelf haar brevet wil halen, nemen per aflevering een stuk examenleerstof door: reglementen, navigatie, veiligheid en manoeuvres. Elke aflevering sluit af met vijf ankers en een mini-examen. Persoonlijke studiereeks, niet voor publicatie.</description>
     <copyright>Nicholas D'hondt</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 19:53:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 07:29:27 +0000</lastBuildDate>
     <atom:link href="https://inicholasbe.github.io/stuurbrevet-podcast/feed.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>Nicholas D'hondt</itunes:author>
     <itunes:subtitle>Vlaamse examenpodcast voor het beperkt stuurbrevet</itunes:subtitle>
@@ -86,6 +86,32 @@
       <enclosure url="https://inicholasbe.github.io/stuurbrevet-podcast/audio/ep05.mp3" length="19229229" type="audio/mpeg"/>
       <itunes:duration>00:20:02</itunes:duration>
       <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Nicholas D'hondt</itunes:author>
+    </item>
+    <item>
+      <title>Bonus. Mega Lopunny coaching for your first locals</title>
+      <guid isPermaLink="false">stuurbrevet-ep90</guid>
+      <pubDate>Sat, 26 Sep 2026 07:26:40 +0000</pubDate>
+      <description>In deze aflevering: Pokémon TCG bonus episode, not exam material. How to pilot Nicholas's Mega Lopunny ex, Mew ex and Mega Froslass ex list at his first locals (26 Sep 2026): the movement engine, attacker choice, prize discipline, hand-size maths and every matchup from games 12 to 25. Temporary episode.</description>
+      <itunes:summary>In deze aflevering: Pokémon TCG bonus episode, not exam material. How to pilot Nicholas's Mega Lopunny ex, Mew ex and Mega Froslass ex list at his first locals (26 Sep 2026): the movement engine, attacker choice, prize discipline, hand-size maths and every matchup from games 12 to 25. Temporary episode.</itunes:summary>
+      <enclosure url="https://inicholasbe.github.io/stuurbrevet-podcast/audio/ep90.mp3" length="22454829" type="audio/mpeg"/>
+      <itunes:duration>00:23:23</itunes:duration>
+      <itunes:episode>90</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:author>Nicholas D'hondt</itunes:author>
+    </item>
+    <item>
+      <title>Bonus. Mega Lopunny coaching voor je eerste locals (Vlaams)</title>
+      <guid isPermaLink="false">stuurbrevet-ep91</guid>
+      <pubDate>Sat, 26 Sep 2026 07:29:27 +0000</pubDate>
+      <description>In deze aflevering: Pokémon TCG bonusaflevering, geen examenstof. Vlaamse versie van aflevering 90: hoe Nicholas zijn Mega Lopunny ex, Mew ex en Mega Froslass ex lijst speelt op zijn eerste locals (26 sep 2026). De bewegingsmotor, de keuze van de aanvaller, prizediscipline, handgrootte-rekenwerk en elke matchup uit games 12 tot 25. Tijdelijke aflevering.</description>
+      <itunes:summary>In deze aflevering: Pokémon TCG bonusaflevering, geen examenstof. Vlaamse versie van aflevering 90: hoe Nicholas zijn Mega Lopunny ex, Mew ex en Mega Froslass ex lijst speelt op zijn eerste locals (26 sep 2026). De bewegingsmotor, de keuze van de aanvaller, prizediscipline, handgrootte-rekenwerk en elke matchup uit games 12 tot 25. Tijdelijke aflevering.</itunes:summary>
+      <enclosure url="https://inicholasbe.github.io/stuurbrevet-podcast/audio/ep91.mp3" length="23878701" type="audio/mpeg"/>
+      <itunes:duration>00:24:52</itunes:duration>
+      <itunes:episode>91</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
       <itunes:author>Nicholas D'hondt</itunes:author>
